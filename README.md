@@ -3,7 +3,8 @@
 Speech to Text Transcriber
 
 ## Usage
-./transcribe.sh -m {path to model} -s {path to scorer} -a {path to audio to be transcribed}
+
+	./transcribe.sh -m {path to model} -s {path to scorer} -a {path to audio to be transcribed}
 
 Ex: 
     
