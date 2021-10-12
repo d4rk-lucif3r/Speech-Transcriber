@@ -2,6 +2,10 @@
 # Speech-Transcriber
 Speech to Text Transcriber
 
+## Installation
+	
+	pip install -r requirements.txt
+
 ## Usage
 
 	./transcribe.sh -m {path to model} -s {path to scorer} -a {path to audio to be transcribed}
