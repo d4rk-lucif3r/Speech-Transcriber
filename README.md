@@ -1,7 +1,7 @@
 
-# Automatic Speech Recognition (ASR)
+# Transcriptaur
 
-This Speech to Text Transcriber is based on [Mozilla's DeepSpeech Model](https://github.com/mozilla/DeepSpeech). It has been trained on 3 datasets using Transfer Learning:
+Transcriptaur is a Speech to Text Transcriber based on [Mozilla's DeepSpeech Model](https://github.com/mozilla/DeepSpeech). It has been trained on 3 datasets using Transfer Learning:
 
 1) [Common Voice English](https://commonvoice.mozilla.org/en/datasets)
 2) [LibriSpeech ASR Corpus](https://www.openslr.org/12/)
