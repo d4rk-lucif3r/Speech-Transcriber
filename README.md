@@ -1,5 +1,5 @@
 
-# ASR
+# Automatic Speech Recognition (ASR)
 
 This Speech to Text Transcriber is based on [Mozilla's DeepSpeech Model](https://github.com/mozilla/DeepSpeech). It has been trained on 3 datasets using Transfer Learning:
 
