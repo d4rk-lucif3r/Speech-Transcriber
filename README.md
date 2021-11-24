@@ -10,7 +10,13 @@ Transcriptaur is a Speech to Text Transcriber based on [Mozilla's DeepSpeech Mod
 
 ## Installation
 	
-	pip install -r requirements.txt
+	1) CPU Only
+		
+		pip install -r requirements_cpu.txt
+	
+	2) GPU Only
+
+		pip install -r requirements_gpu.txt
 
 ## Usage
 
